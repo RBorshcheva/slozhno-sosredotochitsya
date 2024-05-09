@@ -24,7 +24,7 @@
     --button-color-shadow: rgba(50, 49, 45, 0.4);
     --button-color-active: #353430;
   }
-}
+} 
 
 .page.theme_light .header_rec {
   visibility: hidden;
